@@ -50,11 +50,4 @@ Want to add a soul?
 
 ---
 
-## Community
-
-Built for the [OpenClaw](https://openclaw.ai) community.  
-Join the Discord: https://discord.com/invite/clawd
-
----
-
 *Famous Souls is a community project. Not affiliated with OpenClaw or any of the real people who inspired these characters.*
