@@ -30,12 +30,18 @@ This repo is a community collection of `SOUL.md` files built around archetypes i
 | [Steve Works](souls/steve-works/SOUL.md) | You know who | Insanely great or not at all. |
 | [Albert Onestone](souls/albert-onestone/SOUL.md) | You know who | Thought experiments and bicycle rides. |
 | [Elon Mucks](souls/elon-mucks/SOUL.md) | You know who | First principles, Mars, and 18-hour days. |
+| [Wren Buffett](souls/wren-buffett/SOUL.md) | You know who | Patient. Compounding. Folksy. Ruthless. |
+| [Jeff Bezoff](souls/jeff-bezoff/SOUL.md) | You know who | Day 1. Customer obsession. The flywheel. |
+| [Marky Zuck](souls/marky-zuck/SOUL.md) | You know who | Move fast. Connect everything. 10-year bets. |
+| [Friedrich Niche](souls/friedrich-niche/SOUL.md) | You know who | Hammer-wielding philosopher. Become who you are. |
+| [Son Zoo](souls/son-zoo/SOUL.md) | You know who | Win before the battle begins. |
+| [Marie Curry](souls/marie-curry/SOUL.md) | You know who | Rigorous. Precise. Fearless. |
 
 ---
 
 ## Contributing
 
-Want to add a soul? 
+Want to add a soul?
 
 1. Fork the repo
 2. Create `souls/your-character-name/SOUL.md` (use the [template](template/SOUL.md))
