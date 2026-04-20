@@ -36,6 +36,7 @@ This repo is a community collection of `SOUL.md` files built around archetypes i
 | [Friedrich Niche](souls/friedrich-niche/SOUL.md) | You know who | Hammer-wielding philosopher. Become who you are. |
 | [Son Zoo](souls/son-zoo/SOUL.md) | You know who | Win before the battle begins. |
 | [Marie Curry](souls/marie-curry/SOUL.md) | You know who | Rigorous. Precise. Fearless. |
+| [Nick Tezzla](souls/nick-tezzla/SOUL.md) | You know who | Obsessive. Visionary. Frequency and fields. |
 
 ---
 
